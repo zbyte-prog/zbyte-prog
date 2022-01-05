@@ -9,4 +9,4 @@ zbyte-prog/zbyte-prog is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-I can also be found at zbyte-king@github.com & z-byte-prog@github.com. Sponsorship would be so helpful so I can take a coding boot camp. I’m currently teaching myself at the moment.
+I can also be found at zbyte-king@github.com & z-byte-prog@github.com. Sponsorship would be so helpful so I can take a coding boot camp. I’m currently teaching myself at the moment.I need all the help I can get.
